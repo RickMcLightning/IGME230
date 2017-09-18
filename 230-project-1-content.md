@@ -6,10 +6,18 @@ Action Shooter
 # Platform
 Desktop
 # Story
-TBD
+Simply put the player is a Doctor being put through a training zone known in the Order as "The Pit"
+that is supposed to hone an individual's combat effectiveness in a worst case scenario. Members compete
+for the highest score as determined by time survived and enemies defeated. 
 # Aesthetics
+## Graphics
 16 bit pixel art
+## Sound
 16 bit music
+
+There'll be sound for attacking, using abilities, defeating an enemy, taking
+damage, and clicking on menu items. Music will be split between menus, and stage music
+currently with one track each.
 # Gameplay
 ## Mechanics
 ### Modifiers
@@ -36,11 +44,17 @@ strikes, and the third focuses on magic attacks, self buffing, and area of effec
 enemy debuffs.
 ## Controls
 W,A,S,D-Move
+
 Arrow Keys-Attack
+
 Q-Switch Weapons
+
 E-Activate/Pick Up
+
 Shift-Dodge Roll
+
 1-4-Spell Selection
+
 Space—Use Special
 ## Onboarding
 Basic controls for movement, attacking, and menus are on the floor of the starting room,
@@ -54,10 +68,15 @@ against projectiles. They need to learn how skills interact with each other, suc
 # Other
 # About the Developers
 Dillon Chan
+
 Major: Game Design and Development
+
 Minor: Undeclared
+
 Immersion: Undeclared
+
 Year: 2nd
+
 Skills: I'm pretty good at programming, pixel art, and narrative writing. I have experience
 with graphic design, and sound design, and have dabbled in music composition.
 I'm proficient with Adobe Photoshop, Illustrator, Acrobat Pro, and several IDEs,
