@@ -76,6 +76,7 @@ such as finding the right moments to drop the smokescreen ability to slow enemy 
 against projectiles. They need to learn how skills interact with each other, such as stacking magic effects.
 # Screenshots
 ![A mockup of the title screen with a work in progress title](https://github.com/RickMcLightning/IGME230/blob/master/title_mockup.jpg "A Work In Progress Title Screen")
+
 ![A mockup of the game screen and HUD](https://github.com/RickMcLightning/IGME230/blob/master/hud_mockup.jpg "A Work In Progress HUD layout")
 # Other
 # About the Developers
