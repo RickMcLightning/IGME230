@@ -2,7 +2,7 @@
 The player runs around a top down arena leveraging their array of
 magic and items to elimanate enemies
 # Genre
-Action Shooter
+Top Down Shooter
 # Platform
 Desktop
 # Story
