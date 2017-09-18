@@ -71,7 +71,7 @@ Basic controls for movement, attacking, and menus are on the floor of the starti
 like The Binding of Isaac, and the HUD elements for more advanced mechanics such as spells
 have labels on them for what button triggers them. 
 ## Player Learning
-The player needs to learn elemental matchups such as fire < water, how to efficiently use spells, 
+The player needs to learn elemental matchups such as water beating fire, how to efficiently use spells, 
 such as finding the right moments to drop the smokescreen ability to slow enemy movement and protect
 against projectiles. They need to learn how skills interact with each other, such as stacking magic effects.
 # Screenshots
