@@ -8,7 +8,17 @@ Desktop
 # Story
 Simply put the player is a Doctor being put through a training zone known in the Order as "The Pit"
 that is supposed to hone an individual's combat effectiveness in a worst case scenario. Members compete
-for the highest score as determined by time survived and enemies defeated. 
+for the highest score as determined by time survived and enemies defeated. Though the enemies are branded
+as mindless zombies, some of them aren't as mindless as first thought.
+## Theme
+Uncertainty. Mindless zombies isn't neccesarily true for certain enemies.
+## Mood
+Excitement. The action should be intense, especially in the later stages.
+## Premise
+There are hostiles, and you kill them. 
+## Player Motivation
+The player is trying to get the highest score they can. They can choose to disregard the idea of
+"mindless zombies" or not.
 # Aesthetics
 ## Graphics
 16 bit pixel art
